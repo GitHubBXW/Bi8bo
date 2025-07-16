@@ -1,4 +1,4 @@
-package com.example.demo.demos.web;
+package com.bxw.demo.web;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;
