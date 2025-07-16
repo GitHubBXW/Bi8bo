@@ -16,9 +16,12 @@
 
 package com.bxw.demo.web;
 
+import lombok.Data;
+
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
  */
+@Data
 public class User {
 
     private String name;
